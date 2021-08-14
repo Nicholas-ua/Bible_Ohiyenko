@@ -1,0 +1,11 @@
+h1, ol {
+    text-align: center;
+}
+li {
+    display: inline-block; /* the default for span */
+    width: 150px;
+    height: 25px;
+    text-align: center;
+    border: 1px solid blue;  
+    background-color: yellow; 
+  }
